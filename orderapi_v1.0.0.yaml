@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: OrderAPI
   x-ibm-name: orderapi
-  version: v1.0.0
+  version: v1.0.1
 x-ibm-configuration:
   cors:
     enabled: true
